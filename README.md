@@ -32,7 +32,7 @@ I'm open to collaboration and always excited about working on new React projects
 ## Connect with Me
 
 - 📧 Email: chaudharyharsh1998@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/harsh-chaudhary-852720135)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/harsh-chaudhary-852720135)
 
 Let's build amazing React applications together!
 
