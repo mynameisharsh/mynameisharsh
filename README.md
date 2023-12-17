@@ -21,7 +21,21 @@ Welcome to my GitHub profile! I'm a passionate React JS developer based in Sabar
 
 Here are some of the projects I've been working on:
 
-1. [Digital Marketplace](https://github.com/mynameisharsh/digital-marketplace) - Marketplace where user can buy/sell products such as Icons, Themes, etc.
+1. [Digital Marketplace](https://github.com/mynameisharsh/digital-marketplace) - An entire, modern E-Commerce Marketplace for digital products. 
+
+   The features of digital marketplace:
+     1. Complete marketplace built from scratch in Next.js 14
+     2. Beautiful landing page & product pages included
+     3. Custom artwork included
+     4. Full admin dashboard
+     5. Users can purchase and sell their own products
+     6. Locally persisted shopping cart
+     7. Authentication with sign- up verification email
+     8. Learn how to self-host Next.js
+     9. Clean, modern UI using shadcn-ui
+     10. Beautiful emails for signing up and after purchase
+     11. Admins can verify products to ensure high quality
+     12. 100% written in TypeScript
 
 Feel free to explore more in my [repositories](https://github.com/mynameisharsh).
 
