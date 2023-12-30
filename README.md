@@ -1,6 +1,6 @@
 # Hello, I'm Harsh 👋
 
-Welcome to my GitHub profile! I'm a passionate React JS developer based in Sabarkantha, Gujarat. I graduated in Computer Engineering from Gujarat Technological University. I love building web applications and exploring the ever-evolving landscape of web technologies.
+Welcome to my GitHub profile! I'm a passionate React JS developer based in Gujarat, India. I graduated in Computer Engineering from Gujarat Technological University. I love building web applications and exploring the ever-evolving landscape of web technologies.
 
 ## About Me
 
