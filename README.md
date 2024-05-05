@@ -36,6 +36,14 @@ Here are some of the projects I've been working on:
      10. Beautiful emails for signing up and after purchase
      11. Admins can verify products to ensure high quality
      12. 100% written in TypeScript
+2. [Video Conference Application](https://github.com/mynameisharsh/video-conference-app)
+   Features of Video conference application **Livedeo**:
+     1. Complete application built from scratch in Next.js 14
+     2. Integrated Stream SDKs with custom components
+     3. Users can create instant meeting, schedule meeting, join meeting or can create personal room.
+     4. Authentication with using Clerk authentication
+     5. Clean, modern UI using shadcn-ui
+     6. 100% written in TypeScript 
 
 Feel free to explore more in my [repositories](https://github.com/mynameisharsh).
 
