@@ -1,12 +1,12 @@
 # Hello, I'm Harsh 👋
 
-Welcome to my GitHub profile! I'm a passionate React JS developer based in Gujarat, India. I graduated in Computer Engineering from Gujarat Technological University. I love building web applications and exploring the ever-evolving landscape of web technologies.
+Welcome to my GitHub profile! Dynamic Senior Frontend Engineer with over 5 years of experience driving innovative solutions that enhance user experience and optimize performance across digital platforms. Proven expertise in JavaScript, TypeScript, and React.js, with a strong focus on creating responsive and accessible web applications. Skilled in mentoring junior developers and fostering collaborative environments that elevate team productivity and deliver results on time. Committed to implementing best practices in SEO and performance optimization, ensuring high engagement and satisfaction for users.
 
 ## About Me
 
-- 📍 Located in Sabarkantha, Gujarat, India.
+- 📍 Located in Ahmedabad, Gujarat, India.
 - 🎓 Graduated in Computer Engineering from Gujarat Technological University.
-- 💼 Currently working as a React JS Developer.
+- 💼 Currently working as a Team Leader.
 - 🚀 Always exploring new technologies and frameworks.
 
 ## My Skills
